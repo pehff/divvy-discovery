@@ -22,4 +22,4 @@ Os dados para os primeiros seis meses de 2017 são fornecidos. O arquivo de dado
 
 Os arquivos originais - que podem ser acessados aqui:  [Chicago](https://www.divvybikes.com/system-data) ,  [Nova Iorque](https://www.citibikenyc.com/system-data)  e  [Washington](https://www.capitalbikeshare.com/system-data)  - tinham mais colunas, e elas diferiam em formato em muitos casos. Alguns processos de  [data wrangling](https://en.wikipedia.org/wiki/Data_wrangling)  foram realizados para condensar esses arquivos nas seis colunas principais citadas acima, para simplificar sua análise e a avaliação de suas habilidades de Python. 
 
-[Dataset (Chicago)](https://drive.google.com/file/d/1uBz6mGUmu5YctJjMkjZhKvD3jgNwhtBL/view?usp=sharing)
+[Dataset utilizado (Chicago)](https://drive.google.com/file/d/1uBz6mGUmu5YctJjMkjZhKvD3jgNwhtBL/view?usp=sharing)
